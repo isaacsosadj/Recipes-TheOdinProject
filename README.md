@@ -1,2 +1,4 @@
 # odin-recipes
-basic recipe website from The Odin Project
+[Basic recipe](https://isaacsosadj.github.io/odin-recipes/) website from The Odin Project
+
+
